@@ -9,7 +9,7 @@
 
 
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License MIT"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-1.43-orange.svg" alt="Rust 1.43"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-1.64-orange.svg" alt="Rust 1.64"/></a>
 
 </div>
 
@@ -24,7 +24,7 @@ Rust based distributed database with coordinator-shard-slave modes, with TCP or 
 
 ## Prerequisites
 
-rust 1.43
+rust 1.64
 
 ## Build & Run
 
