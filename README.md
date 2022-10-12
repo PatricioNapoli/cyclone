@@ -6,7 +6,6 @@
 <div align="center">
 
   <a style="margin-right:15px" href="#"><img src="https://forthebadge.com/images/badges/made-with-rust.svg" alt="Made with Rust"/></a>
-  <a style="margin-right:15px" href="#"><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="Works on my machine"/></a>
 
 
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License MIT"/></a>
